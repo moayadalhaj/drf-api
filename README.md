@@ -1,3 +1,5 @@
 # Django REST Framework
 
-Using Django REST Framework to create an API
+PR: https://github.com/moayadalhaj/drf-api/pull/1
+
+Using Django REST Framework to create an API app.
